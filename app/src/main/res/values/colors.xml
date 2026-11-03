@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="opengl_background">#FFFFFFFF</color>
+    <color name="square_color">#FF33B5E5</color>
+    <color name="triangle_color">#FFDCE039</color>
 </resources>
